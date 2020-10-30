@@ -5,14 +5,14 @@
 * Se obtienen los mismos resultados de Contreras en los graficos a continuacion:
 
 
-*Figuras 4.5
+* Figuras 4.5
 
 
 ![WhatsApp Image 2020-10-29 at 10 21 30 PM](https://user-images.githubusercontent.com/69157203/97649861-1f903500-1a37-11eb-81f4-ef851e2ce226.jpeg)
 ![WhatsApp Image 2020-10-29 at 10 20 56 PM](https://user-images.githubusercontent.com/69157203/97649864-2028cb80-1a37-11eb-89df-32f53cf18dc0.jpeg)
 ![WhatsApp Image 2020-10-29 at 10 20 49 PM](https://user-images.githubusercontent.com/69157203/97649865-21f28f00-1a37-11eb-8602-66d47d1fb427.jpeg)
 
-*Figuras 4.7
+* Figuras 4.7
 
 
 ![Figure 2020-10-29 224117](https://user-images.githubusercontent.com/69157203/97650254-08057c00-1a38-11eb-9de0-96a1dc26809e.png)
