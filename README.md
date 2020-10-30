@@ -25,6 +25,4 @@
 ![WhatsApp Image 2020-10-29 at 9 21 10 PM](https://user-images.githubusercontent.com/69157203/97649159-62510d80-1a35-11eb-82a7-16c864e4afea.jpeg)
 
 
-* Comente lo que ve. ¿Convergió la solución? ¿En qué casos cree ud. que se puede aplicar una condición de borde natural de el tipo estudiado hasta ahora?
-
 * Se observa que la solucion converje a las condiciones de borde, donde la pendiente du/dx tiende a la condicion establecida y en cada punto, se tiende a cumplir todas las condiciones establecidas, por lo que en la ultima iteracion, se cumplen las condiciones. Se puede aplicar la condicion de borde de temperatura cuando se puede asegurar las condiciones externas de tempreatura y las secciones que se pueden controlar la perdida de calor. La condicion de pendiente, se puede asegurar naturalmente como una condicion natural del material, el que es mas dificil de asegurar, pero facilita las condiciones de estudio.
